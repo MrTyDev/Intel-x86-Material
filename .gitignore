@@ -1,1 +1,2 @@
-.gitignore.txt
+# Ignore all Zone.Identifier files
+*.Zone.Identifier
